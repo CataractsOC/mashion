@@ -1,2 +1,2 @@
-# mashion
-Mashion - Reddit Fashion Randomizer
+# Mashion
+A Reddit fashion randomizer.
